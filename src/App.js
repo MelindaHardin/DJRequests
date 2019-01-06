@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-import HelloBootstrap from "./components/HelloBootstrap";
+import ReqButton from "./components/ReqButton"
+import Main from "./components/Main";
 
-const App = () => <HelloBootstrap />;
+const App = () => <Main />;
 
 
 

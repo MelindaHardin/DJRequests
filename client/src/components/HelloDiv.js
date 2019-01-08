@@ -8,6 +8,7 @@ const HelloDiv=() =>(
 			<li>Ellie</li>
 			<li>Netflix</li>
 			<li>Popcorn</li>
+			<li>Jolly Ranchers</li>
 		</ul>
 	</div>
 )
